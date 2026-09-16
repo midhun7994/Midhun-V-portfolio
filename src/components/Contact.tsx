@@ -27,7 +27,8 @@ export const Contact: React.FC = () => {
   ) => {
     setFormState({ ...formState, [e.target.name]: e.target.value });
   };
-  const [state, handleSubmit] = useForm((import.meta as any).env.VITE_FORMSPREE_KEY || "");
+  const [state, handleSubmit] = useForm("xnpqyagd");
+
 
 return(
     <section id="contact" className="py-20 relative z-10">
