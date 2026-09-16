@@ -100,7 +100,7 @@ export const Navbar: React.FC = () => {
           <ThemeToggle />
           <a
             href={personalData.resumeUrl}
-            download="MIDHUN_V_Resume.pdf"
+            download="MIDHUN_V_.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-2 text-xs font-semibold rounded-full bg-blue-600 hover:bg-blue-500 text-white shadow-md shadow-blue-600/20 transition-all hover:scale-105 active:scale-95"
@@ -150,7 +150,7 @@ export const Navbar: React.FC = () => {
               <div className="pt-2 border-t border-white/10 light:border-black/10 mt-2">
                 <a
                   href={personalData.resumeUrl}
-                  download="MIDHUN_V_Resume.pdf"
+                  download="MIDHUN_V_.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={() => setMobileMenuOpen(false)}
