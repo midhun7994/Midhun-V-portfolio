@@ -57,7 +57,7 @@ export const Hero: React.FC = () => {
 
             <a
               href={personalData.resumeUrl}
-              download="MIDHUN_V_Resume.pdf"
+              download="MIDHUN_V_.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3.5 rounded-xl glass-card text-slate-200 light:text-slate-800 font-semibold text-sm flex items-center gap-2 transition-all hover:scale-105 active:scale-95"
