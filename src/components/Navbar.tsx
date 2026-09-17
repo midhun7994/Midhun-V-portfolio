@@ -100,7 +100,7 @@ export const Navbar: React.FC = () => {
           <ThemeToggle />
           <a
             href={personalData.resumeUrl}
-            download="MIDHUN_V_.pdf"
+            download="midhun_CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-2 text-xs font-semibold rounded-full bg-blue-600 hover:bg-blue-500 text-white shadow-md shadow-blue-600/20 transition-all hover:scale-105 active:scale-95"
