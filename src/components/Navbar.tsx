@@ -150,7 +150,7 @@ export const Navbar: React.FC = () => {
               <div className="pt-2 border-t border-white/10 light:border-black/10 mt-2">
                 <a
                   href={personalData.resumeUrl}
-                  download="MIDHUN_V_.pdf"
+                  download="midhun_CV.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={() => setMobileMenuOpen(false)}
