@@ -58,7 +58,7 @@ export const personalData = {
   githubUrl: 'https://github.com/midhun7994',
   linkedinUrl: 'https://www.linkedin.com/in/midhun-v-975680335',
   existingPortfolioUrl: 'https://midhunvwebsite.netlify.app/',
-  resumeUrl: '/assets/MIDHUN_V_.pdf',
+  resumeUrl: '/assets/midhun_CV.pdf',
   photoUrl: '/assets/midhun.jpeg',
 };
 
