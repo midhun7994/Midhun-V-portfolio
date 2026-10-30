@@ -1,45 +1,35 @@
-# Midhun V — Professional Portfolio Website
+# Hi, I'm Midhun V 👋
+### Python Full Stack Developer | FastAPI • Django • React • TypeScript
 
-A modern, production-ready, recruiter-friendly developer portfolio website for **Midhun V (Python Full Stack Developer)** built with **React 18 + TypeScript + Vite + Tailwind CSS + Framer Motion (`motion/react`) + Lucide Icons**.
+<div align="center">
 
-## 🚀 Features
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-midhun--v--portfolio.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://midhun-v-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Midhun_V-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/midhun-v-975680335)
+[![GitHub](https://img.shields.io/badge/GitHub-midhun7994-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midhun7994)
+[![Gmail](https://img.shields.io/badge/Email-midhunvijayan7994%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:midhunvijayan7994@gmail.com)
 
-- **Personalized Branding & Photo**: Prominent presentation of Midhun V's professional photo (`midhun.jpeg`).
-- **Dark / Light Mode**: Interactive theme switcher with persistent local storage and system preference detection.
-- **Sticky Navigation**: Smooth-scrolling sticky navbar with active section pill indicator and mobile responsive menu.
-- **Micro-Interactions & Custom Cursor**: Spring-animated custom cursor follower (automatically disabled on mobile/touch devices).
-- **Projects Showcase**: Interactive cards for **Calorie-Tracker Management System** and **AI Air Bag Detection & Emergency Alert** with modal views and direct GitHub repository links.
-- **Experience Timeline**: Career history covering full-stack internship at Quest Innovative Solutions Pvt Ltd.
-- **Categorized Skills**: Organized technical badges across Languages, Databases, Frameworks, Tools, and Soft Skills.
-- **Certifications & Education**: Academic background (BCA, Higher Secondary, SSLC) and verified credentials (Microsoft Azure AI Essentials, Oracle Agentic AI Associate).
-- **Working Contact Options**: Email copy-to-clipboard button, phone call link, WhatsApp instant chat link, and a deployment-ready Netlify form.
-- **Netlify Ready**: Includes `public/_redirects` for single-page app (SPA) routing.
+</div>
 
-## 🛠️ Local Setup & Running
+---
 
-```bash
-# 1. Install dependencies
-npm install
+## 👨‍💻 About Me
 
-# 2. Start local development server
-npm run dev
-```
+I am a passionate **Python Full Stack Developer** with hands-on experience developing end-to-end web applications using **FastAPI**, **Django**, **Flask**, and **React**. I specialize in clean architecture, high-concurrency async backends, RESTful API design, relational database modeling, and interactive frontend interfaces.
 
-The site will run at `http://localhost:5173/`.
+- 🔭 Currently building **[ProjectFlow](https://github.com/midhun7994)** — an enterprise-grade Agile Project & Task Management Platform.
+- 💼 Prior Experience: **Python Full Stack Developer Intern** at **Quest Innovative Solutions Pvt Ltd**.
+- 🎓 **Bachelor of Computer Applications (BCA)** — University of Calicut.
+- 🤖 Certified in **Microsoft Azure AI Essentials** & **Oracle Agentic AI Foundations**.
+- 📍 Based in **Palakkad, Kerala, India**.
 
-## 📦 Production Build
+---
 
-```bash
-npm run build
-```
+## 🛠️ Tech Stack & Skills
 
-This compiles TypeScript and builds production assets into the `dist/` directory.
-
-## 🌐 Netlify Deployment
-
-1. Push this repository to GitHub/GitLab.
-2. Connect the repository to Netlify.
-3. Configure build settings:
-   - **Build Command**: `npm run build`
-   - **Publish Directory**: `dist`
-4. Deploy! The included `public/_redirects` file ensures SPA routes function without 404 errors.
+```text
+Languages:       Python, TypeScript, JavaScript (ES6+), SQL, HTML5, CSS3
+Backend:         FastAPI (Async), Django, Flask, REST APIs, Django ORM, SQLAlchemy 2.0, Alembic
+Frontend:        React 19, TypeScript, Zustand, TanStack Query, Tailwind CSS v4, Bootstrap
+Databases & Cache: PostgreSQL, MySQL, MongoDB, SQLite, Redis
+DevOps & Tools:  Docker, Git, GitHub, Postman, Vite, Azure AI Studio, Vercel
+Security:        JWT Authentication, HTTP-only Cookies, Argon2id Hashing, RBAC
